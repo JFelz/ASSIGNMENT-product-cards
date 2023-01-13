@@ -23,3 +23,7 @@ div > h6 > b {
   margin-top: 25px;
   
 }
+
+#soldout h6 > b{
+  color: red;
+}
